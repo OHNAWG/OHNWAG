@@ -4,6 +4,6 @@
 ## Career
 - 영남대학교 컴퓨터공학과 2학년
 ## Links
-- E-mail - kkh07155@gmail.com
-## Courses
+- E-mail - kkh07155@yu.ac.kr
+## major
 - Computer Engineering
